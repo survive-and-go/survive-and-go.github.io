@@ -37,7 +37,7 @@ description: (Modifying...)
     - 스터디 용도로 작성되는 글이며, 타인이 이해할 수 있는 형태로 작성해주세요.
     - 반드시 첫번째와 두번째 태그로 **스터디 주제**와 작성자의 **깃헙 계정**을 입력해주세요
 3. 포스트 작성
-    - 마크다운 파일이 표현되는 방식은 [여기]()를 참고해주세요.
+    - 마크다운 파일이 표현되는 방식은 [여기](https://survive-and-go.github.io/blog/2015/title/)를 참고해주세요. +[소스코드](https://github.com/survive-and-go/survive-and-go.github.io/blob/main/_posts/ke2ek/2015-10-20-title.md)
     - `_posts/GITHUB_ID/YYYY-MM-DD-title.md` 경로로 파일을 작성해주세요.
     - 파일 이름의 title 에는 무엇이 들어가든 상관없으나, 아무것도 없으면 포스트가 생성되지 않습니다.
     - 새로운 태그를 추가하시려면, 마크다운 파일 작성 후 `_data/tags.yml`에 양식에 맞게 새 태그를 추가하고, `tag_generator.py` 파일을 실행한 뒤 Pull Request 해주세요.

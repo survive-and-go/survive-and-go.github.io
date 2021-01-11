@@ -5,8 +5,8 @@ title: survive-and-go
 name: survive-and-go
 email: 
 footer_text: >
-  <a href="https://github.com/survive-and-go.github.io">Github</a>
-url: https://survive-and-go.github.io/ # the base hostname & protocol for your site
+  <a href="https://github.com/survive-and-go">Github</a>
+url: https://survive-and-go.github.io # the base hostname & protocol for your site
 
 # -----------------------------------------------------------------------------
 # Blog
