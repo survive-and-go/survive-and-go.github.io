@@ -22,7 +22,7 @@ description: (Modifying...)
 
 ### Members
 
-- [Member1](https://member.github.com) : personal website
+- [ke2ek](https://github.com/ke2ek) - EUNJIN KWON
 - [Member2](https://member.github.com) : personal website
 - [Member3](https://member.github.com) : personal website
 - [Member4](https://member.github.com) : personal website

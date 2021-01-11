@@ -1,4 +1,4 @@
-# Member
+# Member Github ID
 - slug: ke2ek
   name: ke2ek
 
@@ -11,18 +11,13 @@
 - slug: member4
   name: member4
 
-# Category
-- slug: algorithm
-  name: Algorithm
 
+# Member Category
+# ke2ek
 - slug: theory
   name: Theory
 
-- slug: ml
-  name: ML
 
-- slug: devops
-  name: DevOps
-
-- slug: docker
-  name: Docker
+# Group Category
+- slug: DesignPattern
+  name: DesignPattern
