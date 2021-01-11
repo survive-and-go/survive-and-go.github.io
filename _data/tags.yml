@@ -1,0 +1,28 @@
+# Member
+- slug: ke2ek
+  name: ke2ek
+
+- slug: member2
+  name: member2
+
+- slug: member3
+  name: member3
+
+- slug: member4
+  name: member4
+
+# Category
+- slug: algorithm
+  name: Algorithm
+
+- slug: theory
+  name: Theory
+
+- slug: ml
+  name: ML
+
+- slug: devops
+  name: DevOps
+
+- slug: docker
+  name: Docker

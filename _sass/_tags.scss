@@ -1,0 +1,42 @@
+@mixin font-awesome-icon {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  font-weight: 900;
+
+  display: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+$icon-tag: "\f02b";
+
+.tag-cloud {
+  width: 70%;
+  text-align: left;
+  padding-top: 50px;
+  margin: 0 auto;
+  & > a {
+    display: inline-block;
+    margin-bottom: 1em;
+  }
+
+  .selected {
+    background-color: rgb(222,238,254);
+  }
+}
+ 
+.tag, .tag-cloud > a {
+  color: $blue-1;
+  font-family: $font-family;
+  font-size: 11pt;
+  background-color: rgb(241,248,255);
+  // border: 1px solid lightgray;
+  padding: 0.3em 0.6em;
+  border-radius: 0.3em;
+  &:hover {
+    text-decoration: none;
+    background-color: rgb(222,238,254);
+  }
+}

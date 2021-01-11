@@ -1,0 +1,93 @@
+.home-header {
+    font-family: $home-font-family;
+    color: black;
+    margin-bottom: $space-2; // $space-1;
+    p {
+        margin-bottom: 0;
+        font-size: 12pt;
+        padding-left: .2em;
+        color: black;
+    }
+}
+
+.home-title {
+    display: inline-block;
+    margin: 0;
+    font-family: $home-font-family;
+    font-size: 24pt;
+    color: black;
+}
+
+.home-description {
+    font-family: $home-font-family;
+    display: inline-block;
+    float: right;
+    text-align: right;
+    margin: 0;
+    margin-top: $space-1;
+}
+
+.home-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    > li {
+        border-bottom: 1px solid $light-gray;
+        padding-bottom: $space-3;
+        padding-top: $space-3;
+    }
+}
+
+.home-content {
+    h3, h4, h5, p, li {
+        font-size: 12pt;
+        font-family: $home-font-family;
+        a { color: black; }
+    }
+
+    h3 { // Title
+        font-weight: bold;
+        color: $blue-1;
+        letter-spacing: 0.5px;
+        margin: 0;
+        padding-top: 30px;
+        padding-bottom: 5px;
+    }
+
+    h4 { // Subtitle
+        width: 70%;
+        display: inline-block;
+        margin: $space-0 0;
+        color: black;
+        em {
+            display: block;
+            font-style: normal;
+        }
+    }
+    
+    h5 { // Date
+        display: inline-block;
+        margin: $space-0 0;
+        float: right;
+    }
+
+    p {
+        margin-bottom: $space-1;
+    }
+
+    ul {
+        margin-bottom: $space-1;
+    }
+}
+
+.home-meta {
+    color: $grey-color;
+    font-size: $small-font-size;
+    margin-bottom: 0px;
+}
+
+.home-link {
+    display: block;
+    font-size: 42px;
+}
